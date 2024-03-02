@@ -524,7 +524,7 @@ if __name__ == "__main__":
               while True:
 
                 print('\n\x1b[1;92m' + '-' * 50 + '\x1b[0m')
-                print('\n\x1b[1;92mOwner     :\x1b[0m \x1b[1;97mkHÆIZÏELEAH\x1b[0m ')
+                print('\n\x1b[1;92mOwner     :\x1b[0m \x1b[1;97mUNKNOWN\x1b[0m ')
                 print('\x1b[1;92mTool Type :\x1b[0m \x1b[1;97mFacebook Manager\x1b[0m ')
                 print('\x1b[1;92mVersion   :\x1b[0m \x1b[1;97m69\x1b[0m ')
                 print('\n\x1b[1;92m' + '-' * 50 + '\x1b[0m')
