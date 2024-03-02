@@ -1,4 +1,4 @@
-# 📰 HOW TO SETUP?
+# 📰 HOW TO USE?
 
 ```python
 pkg update
@@ -21,3 +21,9 @@ cd tools
 ```python
 python tools.py
 ```
+
+# 📷 SCREENSHOTS
+
+<img src="img/Ggs.jpg" style="height: 220px; width: 200px"></img>
+<img src="img/GG.jpg" style="height: 220px; width: 200px"></img>
+
